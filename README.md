@@ -1,6 +1,6 @@
 ## Weather Updater
 
-Simple utility script I made to get familiar with using APIs and working with JSON data. Pretty useful and convenient though.
+Simple utility script I made that sends me a desktop notification when I log on to my PC letting know what the weather is for the day. Helped me get familiar with using APIs and working with JSON data. 
 
 #### How it works:
 *Python file*:
