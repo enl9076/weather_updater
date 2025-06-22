@@ -12,3 +12,9 @@ Simple utility script I made that sends me a desktop notification when I log on 
 *Batch file*:
 * Calls the Python script to run
 * The .bat file itself is called by Windows Task Scheduler every time I log on to my computer
+
+
+
+#### How you can use this:
+* git clone this repo into a local folder
+* Create a .env file within the same directory and add your Google Maps API key, latitude, and longitude
