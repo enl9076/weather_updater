@@ -1,4 +1,4 @@
-## ![image](https://github.com/user-attachments/assets/bbb1e383-1be4-4762-911f-757a337b4510) Weather Updater
+## Weather Updater
 
 Simple utility script I made that sends me a desktop notification when I log on to my PC letting know what the weather is for the day. Helped me get familiar with using APIs and working with JSON data. 
 
