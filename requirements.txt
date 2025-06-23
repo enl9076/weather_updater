@@ -1,3 +1,4 @@
-pandas
-plyer
-dotenv
+pandas == 2.3.0
+plyer == 2.1.0
+dotenv == 0.9.9
+requests == 2.32.4
